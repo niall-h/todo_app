@@ -1,3 +1,3 @@
-<h1>To-Do App</h1>
+<h1>Basic To-Do App using ReactJS</h1>
 
-Created using <i>React.js</i>
+Deployed <a href="https://niall-h.github.io/todo_app">here</a>.
